@@ -132,44 +132,39 @@ HDFC continued stable compounding but showed more aggressive credit expansion in
 
 Key Comparative Insights
 
-Stability vs Turnaround
+- Stability vs Turnaround
 
-HDFC represents stable, disciplined, low-volatility compounding.
+  HDFC represents stable, disciplined, low-volatility compounding.
+  SBI represents a high-volatility but strong structural turnaround story.
 
-SBI represents a high-volatility but strong structural turnaround story.
+- Asset Quality
 
-Asset Quality
+  SBI reduced Gross NPA drastically from double digits to below 2%.
+  HDFC maintained consistently low NPAs throughout.
 
-SBI reduced Gross NPA drastically from double digits to below 2%.
+- Profitability
 
-HDFC maintained consistently low NPAs throughout.
+  SBI’s CAGR is significantly higher due to recovery from a weak base.
+  HDFC’s CAGR reflects sustainable long-term compounding.
 
-Profitability
+- Capital Strength
 
-SBI’s CAGR is significantly higher due to recovery from a weak base.
+  HDFC maintained a stronger and more consistent risk buffer.
+  SBI improved capital cushion gradually across phases.
 
-HDFC’s CAGR reflects sustainable long-term compounding.
+- Growth Dynamics
 
-Capital Strength
-
-HDFC maintained a stronger and more consistent risk buffer.
-
-SBI improved capital cushion gradually across phases.
-
-Growth Dynamics
-
-Both banks expanded total assets post-COVID.
-
-HDFC showed increased lending aggressiveness post-FY23.
+  Both banks expanded total assets post-COVID.
+  HDFC showed increased lending aggressiveness post-FY23.
 
 Final Conclusion
 
 The analysis shows that:
 
-SBI demonstrated a structural turnaround post-COVID, supported by aggressive asset quality repair and improving profitability.
+- SBI demonstrated a structural turnaround post-COVID, supported by aggressive asset quality repair and improving profitability.
 
-HDFC maintained its long-standing model of stable, disciplined, and low-risk compounding growth.
+- HDFC maintained its long-standing model of stable, disciplined, and low-risk compounding growth.
 
-COVID did not structurally weaken either bank; instead, both emerged stronger, though through different trajectories.
+- COVID did not structurally weaken either bank; instead, both emerged stronger, though through different trajectories.
 
-This project highlights how two leading Indian banks responded differently to economic stress — one through resilience and stability, the other through recovery and transformation.
+- This project highlights how two leading Indian banks responded differently to economic stress — one through resilience and stability, the other through recovery and transformation.

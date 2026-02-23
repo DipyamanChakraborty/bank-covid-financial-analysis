@@ -30,141 +30,103 @@ The study period was divided into structured phases:
 - RECOVERY (FY22)
 - STABILIZED / GROWTH (FY23–FY25)
 
-1. PRE-COVID (FY18–FY20)
+1. Pre-COVID Phase (FY18–FY20)
+  - SBI
 
-SBI
+    SBI reported a loss in FY18 and carried double-digit Gross NPA levels during this period. Profitability was weak, and the balance sheet reflected legacy stress from prior credit cycles. Capital cushion was relatively low        compared to risk exposure.
 
-Reported a loss in FY18.
+    Insight:
+    SBI entered the COVID period in a restructuring and balance sheet repair phase, actively addressing stressed assets and cleaning up legacy bad loans.
 
-Extremely high Gross NPA (double digits).
+  - HDFC
 
-Weak profitability and stressed balance sheet.
+    HDFC demonstrated steady profit growth and maintained Gross NPA levels around 1–1.3%. Capital adequacy remained strong, supported by a disciplined lending strategy and prudent risk management.
 
-Low capital cushion relative to risk.
+    Insight:
+    HDFC exhibited stable profitability and strong asset quality prior to COVID, reflecting operational consistency and controlled risk exposure.
 
-Understanding:
-SBI entered COVID already in a restructuring and repair phase. The bank was cleaning up legacy bad loans.
+2. COVID Shock Phase (FY21)
+  - SBI
 
-HDFC
+    Despite macroeconomic uncertainty, SBI improved profitability and continued reducing NPAs. Capital adequacy strengthened gradually during this period.
 
-Stable and steadily growing profits.
+    Insight:
+    Contrary to expectations, SBI did not deteriorate during COVID. Instead, it continued balance sheet repair and asset quality improvement.
 
-Gross NPA consistently around ~1–1.3%.
+  - HDFC
 
-Strong capital adequacy and stable lending strategy.
+    HDFC sustained profit growth, maintained controlled asset quality, and expanded its balance sheet steadily despite economic disruption.
 
-Understanding:
-HDFC demonstrated disciplined risk management and consistent profitability before COVID.
+    Insight:
+    HDFC demonstrated resilience and operational stability during systemic stress.
 
-2. COVID SHOCK (FY21)
-SBI
+3. Recovery Phase (FY22)
+  - SBI
 
-Profitability improved despite macro uncertainty.
+    Net profit increased significantly, accompanied by a marked decline in both Gross and Net NPA levels. The balance sheet showed visible structural improvement.
 
-NPAs began declining meaningfully.
+    Insight:
+    FY22 marked a clear turning point, with SBI’s turnaround becoming operationally evident.
 
-Capital position strengthened gradually.
+  - HDFC
 
-Understanding:
-Contrary to expectations, SBI did not collapse during COVID. Instead, asset quality improvement continued.
+    HDFC continued steady profit growth, maintained strong risk metrics, and gradually accelerated lending activity.
+    
+    Insight:
+    HDFC maintained its stable compounding model without excessive volatility.
 
-HDFC
+4. Stabilized / Growth Phase (FY23–FY25)
+  - SBI
 
-Continued profit growth.
-
-Asset quality remained controlled.
-
-Balance sheet expanded steadily.
-
-Understanding:
-HDFC showed resilience and stability during systemic stress.
-
-3. RECOVERY (FY22)
-SBI
-
-Strong jump in net profit.
-
-Significant decline in Gross and Net NPA.
-
-Visible structural repair of balance sheet.
-
-Understanding:
-This phase marked SBI’s operational turnaround becoming clearly visible.
-
-HDFC
-
-Continued steady profit growth.
-
-Risk metrics remained strong.
-
-Gradual acceleration in lending.
-
-Understanding:
-HDFC maintained its stable compounding model without excessive volatility.
-
-4. STABILIZED / GROWTH (FY23–FY25)
-SBI
-
-Net profit crossed HDFC in absolute terms.
-
-Gross NPA reduced to below 2%.
-
-Risk buffer improved.
-
-Total assets expanded consistently.
-
-Understanding:
-SBI transitioned from recovery mode to growth mode.
-The bank demonstrated a structural turnaround rather than temporary improvement.
-
-HDFC
-
-Profit growth remained consistent.
-
-Advances-to-deposits ratio increased post-merger.
-
-Strong capital cushion maintained.
-
-Higher lending aggressiveness observed post-FY23.
-
-Understanding:
-HDFC continued stable compounding but showed more aggressive credit expansion in later years.
+    SBI’s net profit surpassed HDFC in absolute terms. Gross NPA declined below 2%, risk buffer improved, and total assets expanded consistently.
+  
+    Insight:
+    SBI transitioned from recovery to sustainable growth, reflecting structural transformation rather than temporary improvement.
+  
+  - HDFC
+  
+    Profit growth remained consistent. The advances-to-deposits ratio increased post-FY23, indicating stronger credit expansion. Capital cushion remained robust.
+    
+    Insight:
+    HDFC sustained stable compounding while adopting a more aggressive lending stance in later years.
 
 Key Comparative Insights
+1. Stability vs Turnaround
 
-- Stability vs Turnaround
+  - HDFC represents disciplined, low-volatility compounding growth.
+  
+  - SBI represents a high-volatility but successful structural turnaround.
 
-  HDFC represents stable, disciplined, low-volatility compounding.
-  SBI represents a high-volatility but strong structural turnaround story.
+2. Asset Quality
 
-- Asset Quality
+  - SBI reduced Gross NPA from double-digit levels to below 2%.
+  
+  - HDFC maintained consistently low NPA levels throughout.
 
-  SBI reduced Gross NPA drastically from double digits to below 2%.
-  HDFC maintained consistently low NPAs throughout.
+3. Profitability
 
-- Profitability
+  - SBI’s higher CAGR reflects recovery from a weak base.
+  
+  - HDFC’s CAGR reflects sustainable and consistent long-term growth.
 
-  SBI’s CAGR is significantly higher due to recovery from a weak base.
-  HDFC’s CAGR reflects sustainable long-term compounding.
+4. Capital Strength
 
-- Capital Strength
+  - HDFC maintained a stronger and more consistent risk buffer.
+  
+  - SBI progressively improved its capital cushion across phases.
 
-  HDFC maintained a stronger and more consistent risk buffer.
-  SBI improved capital cushion gradually across phases.
+5. Growth Dynamics
 
-- Growth Dynamics
-
-  Both banks expanded total assets post-COVID.
-  HDFC showed increased lending aggressiveness post-FY23.
+  - Both banks expanded total assets significantly post-COVID.
+  
+  - HDFC displayed increased lending aggressiveness in later years.
 
 Final Conclusion
 
-The analysis shows that:
-
-- SBI demonstrated a structural turnaround post-COVID, supported by aggressive asset quality repair and improving profitability.
-
-- HDFC maintained its long-standing model of stable, disciplined, and low-risk compounding growth.
-
-- COVID did not structurally weaken either bank; instead, both emerged stronger, though through different trajectories.
-
-- This project highlights how two leading Indian banks responded differently to economic stress — one through resilience and stability, the other through recovery and transformation.
+  - The analysis demonstrates two distinct post-COVID trajectories:
+  
+  - SBI achieved a structural turnaround through aggressive asset quality repair and improved profitability.
+  
+  - HDFC maintained its long-standing model of disciplined, stable, and low-risk compounding growth.
+  
+  - COVID did not structurally weaken either bank. Instead, both emerged stronger, though through fundamentally different strategic paths — one through resilience and consistency, the other through recovery and transformation.

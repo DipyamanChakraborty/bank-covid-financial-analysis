@@ -7,7 +7,7 @@ The objective was not only to compare performance metrics, but to understand str
 
 Tools & Technologies Used: 
 
-- Excel – Data cleaning and structuring
+- Excel – Data manipulation and consolidation
 - MySQL – Financial calculations and growth analysis
 - Power BI – Interactive dashboard and visualization
 - Official Annual Reports – Primary data source
